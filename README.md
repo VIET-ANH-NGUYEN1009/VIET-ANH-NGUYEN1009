@@ -20,3 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VIET-ANH-NGUYEN1009&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=VIET-ANH-NGUYEN1009&label=SHARK-NVA&color=10&pretty=true" />
+</a>
