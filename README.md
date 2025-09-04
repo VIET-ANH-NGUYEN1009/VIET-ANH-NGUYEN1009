@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VIET-ANH-NGUYEN1009&label=Profile%20views&color=0e75b6&style=flat" alt="VIET-ANH-NGUYEN1009" /> </p>
 
-#### CNTT 16-01
+- #### CNTT 16-01
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
     | NHẬN DIỆN CỬ CHỈ TAY HỖ TRỢ GIAO TIẾP CHO NGƯỜI KHUYẾT TẬT | Đặng Trường Dương, Bùi Tuấn Đức, Nguyễn Đức Hoàn, Đỗ Hoàng Quý| [:octocat:github](https://github.com/ApheliosQ/sign-language-detection-using-lstm.git)|
