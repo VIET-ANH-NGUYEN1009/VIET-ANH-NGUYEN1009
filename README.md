@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VIET-ANH-NGUYEN1009&label=Profile%20views&color=0e75b6&style=flat" alt="VIET-ANH-NGUYEN1009" /> </p>
 
-- #### CNTT 16-01
+- #### Dự án học tập
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
-    | NHẬN DIỆN CỬ CHỈ TAY HỖ TRỢ GIAO TIẾP CHO NGƯỜI KHUYẾT TẬT | Đặng Trường Dương, Bùi Tuấn Đức, Nguyễn Đức Hoàn, Đỗ Hoàng Quý| [:octocat:github](https://github.com/ApheliosQ/sign-language-detection-using-lstm.git)|
+    | ROBOTIC-ARM |  | [:octocat:github](https://github.com/VIET-ANH-NGUYEN1009/ROBOTIC-ARM)|
     |NHẬN DIỆN HÀNH VI CỦA HỌC SINH| Nguyễn Tiến Dũng, Lê Ngọc Hưng, Lù Ngọc Tân, Võ Vĩnh Thái| [:octocat:github](https://github.com/Wipper0000/Student_behavior_recognition.git)|
     | QUẢN LÝ BÃI ĐỖ XE THÔNG MINH| Nguyễn Minh Đức, Nguyễn Việt Đức, Trịnh Kế Quang, Đinh Thế Thành| [:octocat:github](https://github.com/Ducblacks/Quan-Ly-Bai-Do-Xe-Thong-Minh.git)|
     | HỆ THỐNG NHẬN DIỆN KHUÔN MẶT VÀ CẢNH BÁO CHUYỂN ĐỘNG TRONG GIÁM SÁT AN NINH| Nguyễn Đức Duy, Đào Thị Phương Long, Đoàn Tuấn Nam, Nguyễn Khôi Nguyên| [:octocat:github](https://github.com/nammmmmm12/Nhan_dien_KM_CD)||
