@@ -12,7 +12,7 @@
     | MASTER_KEY| | [:octocat:github](https://github.com/VIET-ANH-NGUYEN1009/MASTER_KEY)|
     | HE_THONG_DONG_MO_HC_SR04| | [:octocat:github](https://github.com/VIET-ANH-NGUYEN1009/HE_THONG_DONG_MO_HC_SR04)|
     | HỆ THỐNG PHAN LOẠI SẢN PHẨM THEO MÀU SẮC| | [:octocat:github](https://github.com/VIET-ANH-NGUYEN1009/DATN)||
-    | Farm_Management_System| | | [:octocat:github](https://github.com/VIET-ANH-NGUYEN1009/Farm_Management_System)||
+    | Farm_Management_System| | [:octocat:github](https://github.com/VIET-ANH-NGUYEN1009/Farm_Management_System)||
     
 
 
